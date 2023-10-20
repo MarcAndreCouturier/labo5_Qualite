@@ -1,0 +1,14 @@
+D:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\obj\Debug\R14.csprojAssemblyReference.cache
+D:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\obj\Debug\R14.csproj.CoreCompileInputs.cache
+D:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\bin\Debug\R14.exe.config
+D:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\bin\Debug\R14.exe
+D:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\bin\Debug\R14.pdb
+D:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\obj\Debug\R14.exe
+D:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\obj\Debug\R14.pdb
+E:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\bin\Debug\R14.exe.config
+E:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\bin\Debug\R14.exe
+E:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\bin\Debug\R14.pdb
+E:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\obj\Debug\R14.csprojAssemblyReference.cache
+E:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\obj\Debug\R14.csproj.CoreCompileInputs.cache
+E:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\obj\Debug\R14.exe
+E:\OneDrive\Cegep\2020-3 Automne 2020\Logiciels de qualité\R14 (Vérification - Tests unitaires boîte noire - Laboratoire 5)\Laboratoire 5\R14\R14\obj\Debug\R14.pdb
